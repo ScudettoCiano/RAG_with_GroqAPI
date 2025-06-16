@@ -13,7 +13,6 @@
 ---
 
 ### 1. Analysis about how the project works
-- TODO
 
 Proyek ini merupakan implementasi dari Retrieval-Augmented Generation (RAG) menggunakan pipeline:
 - Upload dokumen PDF
@@ -104,10 +103,5 @@ GROQ_API_KEY=your-groq-api-key
 
 - Fill the ```GROQ_API_KEY``` with your Groq API Key, find it here : https://console.groq.com/keys
 
-- TODO
-- TODO
-- TODO
-- TODO
-- TODO
-- TODO
-- TODO
+- telah diisi dengan : 
+- GROQ_API_KEY='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'
